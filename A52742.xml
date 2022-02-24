@@ -1,0 +1,2908 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the sufferings of the French Protestants, slaves on board the French kings galleys by Elias Neau, one of their fellow sufferers ; together with a list of those who are still on board the said galleys.</title>
+            <author>Neau, Elias, b. ca. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52742</idno>
+            <idno type="STC">Wing N363</idno>
+            <idno type="STC">ESTC R13188</idno>
+            <idno type="EEBO-CITATION">12254818</idno>
+            <idno type="OCLC">ocm 12254818</idno>
+            <idno type="VID">57345</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57345)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 156:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the sufferings of the French Protestants, slaves on board the French kings galleys by Elias Neau, one of their fellow sufferers ; together with a list of those who are still on board the said galleys.</title>
+                  <author>Neau, Elias, b. ca. 1661.</author>
+               </titleStmt>
+               <extent>[1], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Parker ... and sold by A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  France.</term>
+               <term>Persecution --  France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57345:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT OF THE SUFFERINGS OF THE <hi>FRENCH</hi> Proteſtants, Slaves on board the <hi>French</hi> Kings Galleys.</p>
+            <p>By <hi>Elias Neau,</hi> one of their fellow Sufferers.</p>
+            <p>Together with a Liſt of thoſe who are ſtill on board the ſaid Galleys.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Parker</hi> at the <hi>
+                  <g ref="char:V">Ʋ</g>nicorn</hi> under the <hi>Royal Exchange,</hi> and Sold by <hi>A. Baldwin</hi> near the <hi>Oxford Arms</hi> in <hi>Warwick-lane,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:57345:2"/>
+            <head>An Account of the Sufferings of the <hi>French</hi> Proteſtants, Slaves on board the <hi>French</hi> King's Galleys, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>IT is not out of any vanity that I have been induced to publiſh the following account of my ſufferings, while I have remained on board the</hi> French <hi>Kings Galleys, or in the Dungeons of</hi> Marſeilles; <hi>but the Lord out of his infinite mercy having ſaved me out my diſtreſſes, brought me out of darkneſs, and broken my Fetters, ſome pious perſons have thought I ſhould be ungrateful, did I not praiſe the Lord for his goodneſs, and publiſh his wonderful works to the children of men.</hi>
+            </p>
+            <p>I left the Kingdom of <hi>France</hi> upon account of my Religion in the year 1679, being then aged about 18 years of age, and went to <hi>St Domingo,</hi> and from thence to <hi>New York,</hi> where I marry'd ſome time after, and as I had been bred to Sea; ſome friends of mine fitted out a ſmall Ship of about 80 Tuns, which they truſted to my care and command, having been made a Free De<g ref="char:EOLhyphen"/>nizen of <hi>England</hi> by his preſent Majeſty in the firſt year of his Reign.</p>
+            <p>
+               <pb n="2" facs="tcp:57345:3"/>
+I ſailed from <hi>New York</hi> on the 15th of <hi>Auguſt</hi> 1692, bound for <hi>Jamaica,</hi> and was taken on the 29th by a Privateer from <hi>St Malo,</hi> who was returning home from <hi>St Domingo.</hi> I continued two months on board his ship, after which I was put in Priſon with other Sea<g ref="char:EOLhyphen"/>men and Priſoners at War. The Judge of the Admi<g ref="char:EOLhyphen"/>ralty being informed that I was a <hi>French</hi> Proteſtant, gave notice thereof to the King's Attorney, who hav<g ref="char:EOLhyphen"/>ing acquainted Monſieur <hi>de Pontchartrain</hi> with it, re<g ref="char:EOLhyphen"/>ceived order to perſwade me to change my Religion; or in caſe I prov'd obſtinate, to condemn me to the Galleys. This order was ſignify'd unto me, but God was pleaſed to aſſiſt me in ſuch a manner, that I was not terrified in the leaſt, and did not heſitate at all, to anſwer that I could not comply with their deſire, ſee<g ref="char:EOLhyphen"/>ing it was againſt my Conſcience. Their ſollicitations proving vain, I was brought before the Court to be examined, and asked, why I was not returned into the Kingdom, when the King had by a Proclamation recalled all his Subjects, who were in foreign Coun<g ref="char:EOLhyphen"/>tries? I anſwered, that it was becauſe the Goſpel com<g ref="char:EOLhyphen"/>manded me, when I was perſecuted in one Kingdom, to fly into another Country. The Judge, being likely a ſtranger to Scripture maxims and expreſſions, told me that I <hi>blaſphemed;</hi> but having deſired him to tell me wherein, he would not, and repeated the ſame word. I replyed, that this was an expreſſion of the Son of God contained in the Goſpel; whereupon he inclined his head, looking upon the <hi>Greffier</hi> or Clerk of the Court, repeating once more that I <hi>blaſphemed.</hi> He ex<g ref="char:EOLhyphen"/>amined me alſo upon ſeveral other articles foreign to my purpoſe, and ſent the Informations he had taken to Court.</p>
+            <p>
+               <pb n="3" facs="tcp:57345:4"/>
+I remained four months in the Priſons of <hi>St. Malo,</hi> where I had many temptations to overcome, as threats and promiſes, but by the grace of God I was proof againſt all their artifices. The order of the Court be<g ref="char:EOLhyphen"/>ing arrived, my Sentence was pronounc'd, and I was ſent to <hi>Rennes,</hi> to appear before the Parliament of <hi>Britany.</hi> I was put on Horſeback, bound hand and foot, but the ſhaking of the Horſe cauſing my Arms to ſwell, the Manacles prov'd then too little, and I felt then a moſt exquiſite pain. An Advocate of the Parliament, who travelled the ſame Road, pitying my condition, deſired thoſe who were appointed to conduct me to take off the Manacles, but had much ado to perſwade them to it. I was then conſiderably eaſed, but it was impoſſible ble for me to hold a Pen to write in a fortnights time.</p>
+            <p>Some days after my arrival at <hi>Rennes</hi> I appeared be<g ref="char:EOLhyphen"/>fore the great Chamber, and was commanded to hold up my hand, and ſwear to anſwer truly and directly to the Interrogatories which ſhould be made unto me. They asked me firſt my Name and Profeſſion, and then why I had ſettled my ſelf in a foreign Country, con<g ref="char:EOLhyphen"/>trary to the Kings orders. I own I was then ſtruck with ſuch a terror that I could hardly ſpeak, but they bid me to be aſſur'd, and to anſwer the queſtions that were put to me. This having revived me, I told them, I had left my Native Country, becauſe <hi>Jeſus Chriſt the King of Kings, commanded me to fly from that Country, where I could not enjoy the Liberty of Conſcience, and retire into another.</hi>
+            </p>
+            <p>The firſt Preſident told me, that Perſecution was a great evil; but added, that I was not to be ignorant
+<pb n="4" facs="tcp:57345:5"/>
+that St <hi>Paul</hi> commands to obey Kings not only in tem<g ref="char:EOLhyphen"/>poral things, but likewiſe for <hi>Conſcience.</hi> I replyed, that likely St <hi>Paul</hi> did not underſtand that paſſage in the ſenſe of his Lordſhip; for if he did ſo, My Lord, ſaid I to the Preſident, <hi>Why did he not obey</hi> Nero?</p>
+            <p>He asked me afterwards whether I had fired upon the Kings Subjects, but underſtanding that my Ship had no Guns, nor any other offenſive Arms, he asked me whether I would have fired upon them if I had been in a capacity to do it? I replyed, that it was natural for a man to defend his Eſtate and Goods; whereupon he interrupted me, in theſe words, <hi>it is a great misfortune for you to be born in that Religion, and that the Holy Ghoſt has not enlightened you, withdraw.</hi> I was remanded to the Priſon, and two hours after the Attorney General came to tell me, that if I would change my Religion I ſhould have my Pardon, and that they would help me to a good employment at <hi>Breſt.</hi> I gave him the ſame anſwer I had given to the Kings Attorney at St <hi>Milo, viz.</hi> that I was ready to loſe my life, rather than renounce my Religion, whereupon he went away, commanding to put me to the Chain with ſome other Galley<g ref="char:EOLhyphen"/>Slaves.</p>
+            <p>It was on the 3d of <hi>April,</hi> 1693. that I was ty'd to the great Chain with 59 other Slaves, which were con<g ref="char:EOLhyphen"/>demn'd to that dreadful Puniſhment, ſome for deſer<g ref="char:EOLhyphen"/>tion, others for defrauding the King's Duties upon Salt, and others for horrid Crimes, as Robbery, Murther, and 4 for Rapes. It rained almoſt all that month, ſo that we could hardly Travel 5 Leagues a day, and when we arrived at night in any Village or Town to lye, they put us as ſo many Beaſts, in Stables, where, tho
+<pb n="5" facs="tcp:57345:6"/>
+always wet and dirty, we often wanted Straw to lie upon. We had three pence half-penny a day for our nouriſhment, but it often happened that we could find no Bread for our Money in thoſe Villages where we were obliged to lie upon the Road. When they put us in theſe Stables, they faſtned both ends of the Chain to the Walls, ſo that we had only the liberty to lye down, but not to ſtir at all.</p>
+            <p>That hard fatigue and the coldneſs of the Water threw me into a Bloody Flux, and being unable to walk, I gave forty Livres to our Captain to obtain the liberty to be carried in a Cart: Happy to have found a man, whoſe Cruelty could be melted with Money!</p>
+            <p>As we went through all the Capital Cities of the Provinces that lye between <hi>Breſt</hi> and <hi>Marſeilles,</hi> our number encreaſed apace, for we took above 60 other Slaves at <hi>Saumur</hi> and <hi>Angers,</hi> condemned for various crimes. We recruited alſo at <hi>Tours, Bourges</hi> and <hi>Lyons,</hi> inſomuch that we were upward of 150 men when we arrived. It is indeed a horrid Spectacle to ſee ſuch a number of men faſtned to a Chain, and expoſed to ſo many miſeries, that Death is not ſo hard by half as this puniſhment.</p>
+            <p>We arrived at <hi>Marſeilles</hi> on the 10th of <hi>May,</hi> and about the ſame time arrived alſo 800 other Slaves from ſeveral parts of that Kingdom. We were divided into 40 Lots, and I and ſeveral others were ſent on board the <hi>Magnanimous,</hi> commanded by Monſieur <hi>de Soiſan.</hi> There were on board that Galley ſix perſons upon ac<g ref="char:EOLhyphen"/>count of their Religion, and amongſt them there were three very timorous and fearful, who ſometimes had the weakneſs to comply in ſome manner with the Ido<g ref="char:EOLhyphen"/>laters
+<pb n="6" facs="tcp:57345:7"/>
+of the Myſtical <hi>Babylon.</hi> God was pleaſed to ſend me thither to encourage them, and my example and exhortations wrought ſuch an impreſſion upon them, that they reſolved to glorifie the name of their Saviour openly, and without any diſguiſe. One of them told the firſt Lieutenant of the Galley, with a Chriſtian courage and reſolution, that he had indeed been ſo unhappy as to faint under the weight of the Perſecution, but that he begged Gods Pardon for that Crime, and that he abhorred the Idolatry of the Church of <hi>Rome.</hi> They told him in my hearing, that they ſhould make him expire under beating, but he anſwer<g ref="char:EOLhyphen"/>ed, that by the grace of God he was ready to dye. This was enough to kindle the fury of the Captain of the Galley againſt me, who complained, that ſince I was arrived, that man had diſcontinued to do <hi>his duty,</hi> to uſe his own phraſe, for ſo they ſpeak of ſuch who have the weakneſs to go to Maſs, <hi>&amp;c.</hi> This incenſed them ſo much againſt me, that they reſolved to treat me with a greater ſeverity than the reſt of the Slaves, and loaded me with two Chains, whereas the others had but one.</p>
+            <p>There happened ſome time after another thing, which conſiderably encreaſed their rage. A <hi>Roman</hi> Catholick Slave on board the <hi>Warlike,</hi> for having de<g ref="char:EOLhyphen"/>ſerted the Kings ſervice, obſerving that the Officers uſed more ſeverity ou Mr <hi>Carrieres</hi> than any others, and underſtanding he was there only for refuſing to change his Religion, had the curioſity to know from him what was the Religion he maintained with ſo much conſtancy and magnanimity. That faithful Con<g ref="char:EOLhyphen"/>feſſor explain'd to him the Principles thereof, and gave
+<pb n="7" facs="tcp:57345:8"/>
+him a New Teſtament tranſlated by Father <hi>Amelote.</hi> I was informed thereof, and writ to him ſome Letters to encourage him to go on with the examination of our Religion; to which he applied himſelf with ſo much ſincerity, that upon <hi>Eaſier-day next following he refuſed to worſhip the Hoſt;</hi> and had the courage to de<g ref="char:EOLhyphen"/>clare to his Captain, that he would never own himſelf any more a <hi>Roman</hi> Catholick. They loaded him with two Chains, and uſed him with a moſt barbarous ſeve<g ref="char:EOLhyphen"/>rity. They ſearched immediately his Pockets, and ha<g ref="char:EOLhyphen"/>ving found therein ſome of my Letters, my Perſecutors were enrag'd againſt me, and made me ſufficiently fear the effects of their Fury. Their barbarous uſage did not fright our new Proſelyte into any compliance; for God has ſo ſtrengthen'd him, that for theſe five years ſince he has been, and is ſtill, a moſt Glorious Confeſſor of his name.</p>
+            <p>When my Enemies ſaw that their Chains and other Hardſhips wrought no impreſſion upon me, they writ to Court that I ſpoke <hi>Engliſh,</hi> and was perpetually a writing. This reaſon was ſufficient for 'em to obtain an order to transfer me from the Galleys into the P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſons of the Cittadel of <hi>Marſeilles;</hi> but before I ſpeak of the cruelties they exerciſed upon me, I think it may not be improper to give a ſhort account of the hardſhips the Slaves are expos'd to.</p>
+            <p>They are 5 upon every <hi>form,</hi> fetter'd with a heavy Chain, which is about ten or twelve foot long They ſhave their heads from time to time, as a ſign of their Slavery, and they are not allow'd to wear any Hats or Perriwigs, but the King allows them every year a Cap, with two Shirts, two pair of Drawers of the courſeſt
+<pb n="8" facs="tcp:57345:9"/>
+Linnen, a ſort of upper Coat of a reddiſh Stuff, and a Capot; but it is to be obſerved, that they have of late but one Coat and Capot every two years, and two pair of Stockings every year. They have only Beans, and nothing elſe for their food, with about 14 ounces of courſe Bread a day, and ne'er a drop of Wine whilſt they are in Port. They are devour'd in Winter by Lice, and in Summer by Bugs and Flees, and forced to lye one upon another as Hogs in a Stie. I ſhall not take notice in this place of the barbarity they are uſed with by the Officers of the Galleys, which is beyond imagination. The Proteſtants are obnoxious to all theſe miſeries, and a great many others beſides. They are not allowed to receive any money from their Friends and Relations, unleſs it be very privately; they are e<g ref="char:EOLhyphen"/>very day threatned and tormented by Prieſts and Fryers, who, being unable to convince them by reaſons, think that ſeverity alone can do it. To this I muſt add the trouble and vexation a Chriſtian Soul is afflicted with, to live with wicked and deſperate fellows, who never uſe the tremendous name of God, but for curſing and ſwearing.</p>
+            <p>On the 3d of <hi>May</hi> in the year 1694, orders came from Court to transfer me into the Priſon of the Citta<g ref="char:EOLhyphen"/>del, and I was put into the ſame Dungoon wherein Monſieur <hi>Laubonniere,</hi> one of our moſt illuſtrious Con<g ref="char:EOLhyphen"/>feſſors dyed ſeven months before. I was forced to lye u<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n the Stones, for I could not obtain for a year together any Bed, nor even Straw to lye upon. There was a ſtrict order to ſuffer no body to ſpeak to me, nor me to write to any body, and the Aid Major came e<g ref="char:EOLhyphen"/>very night to ſearch my Pockets, when he had taken
+<pb n="9" facs="tcp:57345:10"/>
+his round. Tho my condition was as miſerable as poſſible, no body took pity on me, and the Victuals they gave me was hardly ſufficient to keep me alive. In the mean time God, out of his infinite Love afforded me ſuch comforts, that I little regarded the miſeries I was reduced to. I remain'd there about a year without ſeeing any body; but about that time the Director of Conſcience of the then Governour came to ſee me, as they were bringing me my Dinner. He had hardly look'd upon me, but he cry'd out, Lord, in what condition are you, Sir! I reply'd, <hi>Sir, don't pity me, for could you but ſee the ſecret pleaſures my heart ex<g ref="char:EOLhyphen"/>periences, you would think me too happy.</hi> He told me, that the greateſt ſufferings did not entitle a man to the Glory of Martyrdom, unleſs he was ſo happy as to ſuffer for Truth and Juſtice; which I granted him, but told him withal, that the Holy Ghoſt had ſealed that truth in my heart, and that very thought was my com<g ref="char:EOLhyphen"/>fort in all my afflictions. That Prieſt taking his leave of me, he wiſhed that God would multiply his Grace on me; and ſent me a Straw-bed to lie upon. I con<g ref="char:EOLhyphen"/>tinued 22 months in that Priſon, without changing any Cloaths, my Beard being as long as the hair of my head, and my face as pale as Plaſter. There was juſt under me a generous Confeſſor, whom they had ſo much tormented, that they had turned his Brains, but having ſome good intervals, had always reaſon enough to refuſe to comply with their deſires; he asked me one morning with a loud voice, how I did? This was im<g ref="char:EOLhyphen"/>mediately reported to the Governours, whereupon I was immediately removed into another Priſon, where I continued very little, becauſe of my ſinging of Pſalms,
+<pb n="10" facs="tcp:57345:11"/>
+tho I ſung with a very low voice, that I might diſturb no body. I was put on the 20th of <hi>May</hi> 1696. in a <hi>ſub<g ref="char:EOLhyphen"/>terraneous</hi> Hole, wherein I remained till the 1ſt of <hi>July</hi> next following, that I was ſent, together with the di<g ref="char:EOLhyphen"/>ſtracted perſon I have named, by expreſs order from the Court to the Caſtle of <hi>If,</hi> about five miles from <hi>Mar<g ref="char:EOLhyphen"/>ſeilles,</hi> in the mouth of the Harbour. They had likewiſe five weeks before ſent thither five other per<g ref="char:EOLhyphen"/>ſons, from the ſame Cittadel. We were all at firſt in different Priſons, but as five Centinels were re<g ref="char:EOLhyphen"/>quired to keep us, they obtained leave from the Court to put us together in a ſecure place, ſo that on the 20th of <hi>Auguſt</hi> I and the poor Gentleman I have ſpoken of, were put in a Hole, and the other three in another. The place was ſo diſpoſed, that we were obliged to go down a Ladder into a dry Ditch, and then go up by the ſame Ladder into an old Tower through a Can<g ref="char:EOLhyphen"/>non hole. The Vault or Arch wherein we were put was as dark, as if there had been no manner of light in Heaven, ſtinking, and ſo miſerable dirty, that I verily believe, there is not a more diſmal place in the world. We might have received ſome Money to help us in this great diſtreſs, but they would not ſuffer it, ſo that all our ſenſes were attacked at once; ſight by darkneſs, taſte by hunger, ſmell by the ſtench of the place, feeling by Lice and other vermin, and hearing by the horrid blaſphemies and curſing, which the Sol<g ref="char:EOLhyphen"/>diers, who were obliged to bring us ſome Victuals, vo<g ref="char:EOLhyphen"/>mited againſt God and our Holy Religion. The Miſ<g ref="char:EOLhyphen"/>ſionaries, who flattered themſelves that we could not reſiſt much longer, were almoſt enraged, when they ſaw our firm reſolution to dye in the profeſſion of our
+<pb n="11" facs="tcp:57345:12"/>
+Religion, and therefore began to talk of nothing elſe but of the Judgments of God; and thereupon I could not forbear one day to tell them, that the Judgments of God were upon them, for he ſuffered them to fill the meaſures of their Crimes, in inſulting over us in our miſeries, but that God was juſt, and would not fail to avenge us, and puniſh them according to their de<g ref="char:EOLhyphen"/>merits.</p>
+            <p>Having continued 6 months in that Pit, my fellow ſufferer happening to dye, I was removed into the o<g ref="char:EOLhyphen"/>ther with the other 3 Confeſſors. As that poor man was in his agony, he heard ſome of the Soldiers ſay, that it was neceſſary to ſend for the Chaplain, but he made a ſign with his hand, to teſtify his averſion to it, and ſo gave up the Ghoſt unto the Lord.</p>
+            <p>We continued all four in the other Pit for ſome time, without ſeeing any light at all, but at laſt they gave us leave to have a Lamp while we eat our Victuals. The place being very damp, our Cloaths were rotten by this time; but God was pleaſed to have mercy upon me, miſerable ſinner, and of another of my fellow ſuf<g ref="char:EOLhyphen"/>ferers; for on the 3d of <hi>July</hi> the Lord broke our Fet<g ref="char:EOLhyphen"/>ters, the Right Honourable the Earl of <hi>Portland,</hi> then Extraordinary Ambaſſador to the Court of <hi>France,</hi> ha<g ref="char:EOLhyphen"/>ving reclaimed us in his Majeſtys name. We left two of our Companions in that dreadful Pit, and about 370 others on board the Galleys, where they glorify the name of God with an unparallell'd Courage and Conſtancy.</p>
+            <p>This is the ſhort, but ſincere account of my ſufferings, which I have written at the requeſt of ſeveral eminent perſons, as a means to comfort and rejoyce in the Lord the Faithful Servants of Jeſus Chriſt, and confound
+<pb n="12" facs="tcp:57345:13"/>
+the Emiſſaries of Satan, who would fain make the world believe that there is no perſecution in <hi>France.</hi>
+            </p>
+            <p>And now, <hi>Bleſs the Lord O my ſoul, and all that is within me bleſs his only name, and forget not his benefits. I love the Lord becauſe he hath heard my voice and my ſup<g ref="char:EOLhyphen"/>plications. Becauſe he hath inclined his ear unto me, therefore will I call upon him as long as I live. The ſorrows of Death compaſſed me, and the pains of hell got hold upon me: I found trouble and ſorrow. Then called I upon the name of the Lord; O Lord, I beſeech thee, deliver my ſoul. Gracious is the Lord, and righteous; yea, our God is mer<g ref="char:EOLhyphen"/>ciful. The Lord preſerveth the ſimple, I was brought low, and he helped me. Return unto thy reſt, O my ſoul, for the Lord hath dealt bountifully with thee. For thou haſt delivered my ſoul from Death, mine eyes from tears, and my feet from falling. I will walk before the Lord, in the land of the living. I believed, therefore have I ſpoken: I was greatly afflicted. I ſaid in my haſte, All men are liars. What ſhall I render unto the Lord, for all his be<g ref="char:EOLhyphen"/>nefits towards me? I will take the Cup of Salvation, and call upon the name of the Lord. I will pay my vows unto the Lord, now in the preſence of all his people. Precious in the ſight of the Lord, is the death of his ſaints. O Lord, truly I am thy ſervant, I am thy ſervant, and the ſon of thy handmaid: thou haſt looſed my bonds. I will offer to thee the ſacrifice of thankſgiving, and will call upon the name of the Lord. I will pay my vows unto the Lord, now in the preſence of all his people. In the courts of the Lord's houſe, in the midſt of thee, O Jeruſalem. Praiſe ye the Lord.</hi>
+            </p>
+            <closer>
+               <signed>ELIAS NEAU.</signed>
+            </closer>
+         </div>
+         <div type="list">
+            <pb n="13" facs="tcp:57345:14"/>
+            <head>A True and Exact Liſt of the <hi>French</hi> Proteſtants, Slaves on board the <hi>French</hi> Galleys, for adhering to the Profeſſion of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The name of the places of their Birth.</cell>
+                     <cell role="label">Names of the Proteſtants. </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">The Year that they were ſent to the Gal<g ref="char:EOLhyphen"/>leys.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>On Board the</hi> FORTUNE.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Montauban,</hi>
+                     </cell>
+                     <cell>Mr <hi>Peter Serres</hi> Senior.</cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivares,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Antony Grange,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevenes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Gaſcuel,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Provence,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Matthew Pelanchon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Givaudan,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Anthony Pelevuer,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Anthony Agulhon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1695</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Marvege,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>2686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Iſaac Apoſtolick,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Niſmes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Boulogne,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Swiſſerland,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Joram,</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>On Board the</hi> FRANCE.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Montauban,</hi>
+                     </cell>
+                     <cell>Mr <hi>John Serres</hi> Junior.</cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Abbleville,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Lepicier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Poictou,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Charles Bouin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>Near <hi>Goneſſe,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Rouſleau,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xaintonge,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Poiſſan,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Poictou,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Nicholas Joſue,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Swiſſerland,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Peter Clerc,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>Near <hi>Amiens,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Moſes Foache,</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="14" facs="tcp:57345:15"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> GREAT.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Valleys of <hi>Piemont</hi>
+                     </cell>
+                     <cell>Mr <hi>John Muſſeton,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>Mr <hi>Anthony Chabert,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1696</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Lewis Mannuel,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Boyer,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Anthony Mercier,</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> FIDELLE <hi>or</hi> TRUSTY.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tierache,</hi>
+                     </cell>
+                     <cell>Mr <hi>John Dubui,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Roian,</hi>
+                     </cell>
+                     <cell>Mr <hi>Daniel Gouin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Peridier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francaſtel,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Nicholas Doubigny,</hi> (a Proſelyte)</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivarez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Samſon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lyons,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Joſeph Guigue,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>London,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Matthew Terey,</hi>
+                     </cell>
+                     <cell>7</cell>
+                     <cell>1697</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> BRAVE.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Bouvely,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anduſe,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Lafon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Andrew Bouſquet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1696</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Quercy,</hi>
+                     </cell>
+                     <cell>Meſſieurs <hi>Abel Damouin</hi> and <hi>Ste<g ref="char:EOLhyphen"/>phen Damouin,</hi> of a noble Family.</cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Michel Gaſcuel,</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> BOLD.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nimes,</hi>
+                     </cell>
+                     <cell>Mr <hi>Francis Sabattier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1683</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>William Roux,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Niort,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Elias Eruan,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Mark Greſſe</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>David Lauvet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>Mr <hi>Baptiſt Bancilhon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivarez,</hi>
+                     </cell>
+                     <cell>Mr <hi>Lewis Duclaux,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Lambert,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Philip Tardieu,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anduſe,</hi>
+                     </cell>
+                     <cell>
+                        <hi>David Puec,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>John Negre,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Montauban,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Jaques,</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="15" facs="tcp:57345:16"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> LADY.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Caſtillon</hi> near <hi>Ber<g ref="char:EOLhyphen"/>gerac,</hi>
+                     </cell>
+                     <cell>Mr <hi>Bartholomew Gauma,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Roſeveau,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>John Marin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Alexander Vacher,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Moſes Renault,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Peter Renaut,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anduſe,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Vallat,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphin</hi>
+                     </cell>
+                     <cell>
+                        <hi>Daniel Borel,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anduſe,</hi>
+                     </cell>
+                     <cell>
+                        <hi>David Conte,</hi>
+                     </cell>
+                     <cell>9</cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> GLORY.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nimes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Marc Anthony Reboul,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Daniel Jauvel,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Marc Odou</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivarez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Peter Dintre,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Joſeph Corbiere,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Swiſſerland,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Stephen Ferineau,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Normandy,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter L'Orphelin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Moſes Briſſac</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivarez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Sauzet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Vincent Mallet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>Valleys of <hi>Piemont,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Gendre,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Chapelle,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Negrepeliſſe,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Capelle,</hi>
+                     </cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> HEROIN.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vſez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Claudius Sauvet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bordaux</hi> in <hi>Dau<g ref="char:EOLhyphen"/>phine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Garnier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brie,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Nicholas Robline,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1698</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Mailhey,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nimes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Villaret,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Allez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Stephen Arnout,</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>1691</cell>
+                  </row>
+                  <pb n="16" facs="tcp:57345:17"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> WARLIKE.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bourdeaux,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Fayan,</hi> a Proſelyte,</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>Mr <hi>Peter Carriere,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dieppe,</hi>
+                     </cell>
+                     <cell>Mr <hi>John Ardant,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bearn,</hi>
+                     </cell>
+                     <cell>Mr <hi>Louſtallet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gaſcogne,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Augereau</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> BEAUTIFUL.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Xai<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>onge,</cell>
+                     <cell>Mr <hi>James Rullaud</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bearn,</hi>
+                     </cell>
+                     <cell>Mr <hi>John Cazallet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Stephen Tardieu,</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Eſpaſe,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Givaudan,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Quet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> QUEEN.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Richard,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>Valleys of <hi>Piemont,</hi>
+                     </cell>
+                     <cell>
+                        <hi>David Volle,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Quay,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sedan,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Henry Delo,</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> ILLUSTRIOUS.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nimes,</hi>
+                     </cell>
+                     <cell>Mr <hi>Claudius Jouſſaud</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Several,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Switzerland</hi>
+                     </cell>
+                     <cell>
+                        <hi>Charles Major,</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> MAGNANIMOUS.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivares,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Alexander Aſlier</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Martin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xaintonge,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Simon Pineau,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>Mr <hi>Marc Antoine Capdu,</hi> a Gent.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Abraham Daude,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>John Mercier</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> SOVERAIGN.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Poictou,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Daniel Benet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> MERMAID.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Mitchell,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Givaudan</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Moulin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <pb n="17" facs="tcp:57345:18"/>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Iſaak Lunadier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nimes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Rouvien,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>Mr <hi>James Serguieres,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vitry le Francois,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Morel,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Marcelin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gaſcogne,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Anthony Platon,</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> GALANT.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Soulage,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>John Durrand,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xainctonge,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Grimand,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>Vallys of <hi>Piemont,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Bonnet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bergerac,</hi>
+                     </cell>
+                     <cell>Mr <hi>Elias Pichot,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bergerac,</hi>
+                     </cell>
+                     <cell>Mr <hi>Armand du Queyla,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bergerac,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Samſon Labuſcagne,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xainctonge,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Jacob Albert,</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> PEARLE.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Francis Augier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Picmarin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Alexis Brunel,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Champagne,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Chaminon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bergerac,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Martel,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bergerac,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Aron Guerard,</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> VALOR.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xainctonge,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Allard,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivarez,</hi>
+                     </cell>
+                     <cell>Mr <hi>Francis Rochebiliere,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Alix,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>John Galien,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1695</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Conde</hi> in <hi>Brie,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Berteaud,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1696</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Piccardy,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Daniel Boulonnois,</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>1696</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> STOUT.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Andrew Thiers,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Flavart,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Normandy,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Pinet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <pb n="18" facs="tcp:57345:19"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> INVINCIBLE.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>H. are de Grace,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Campion,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lucern,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Raubert,</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>St.</hi> LEWIS.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Peridier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Sabatier,</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>1695</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> STRONG.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lauſanne,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Francis du Moulin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevenites,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Liron,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Havre de Grace,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Petel,</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> CROWN.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Poictou,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Andrew Gazeau,</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> DUTCHESS.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lauſanne,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Abraham Touvenain.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Daniel Toyſonniere.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> FAME.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Veau,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Uzez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Iſrael Bouchet,</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> DAUPHINESS.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bergerac,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Fauret,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Vallys of <hi>Piemont,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Beru,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xaintonge,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Elias Rianjeaud,</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> CONQUERING.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Meaux</hi> in <hi>Brie,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Lewis Cochet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Meaux</hi> in <hi>Brie,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Cochet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Stephen Meunier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivarez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Daniel Arſau,</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>1696</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> FLOWER DELUCE.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Stephen Fer,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivarez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Chau,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Silvain,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell>County of <hi>Foix,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Joſeph Lafon,</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>1697</cell>
+                  </row>
+                  <pb n="19" facs="tcp:57345:20"/>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> PROUD.</cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Vigne,</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> FAVOURITE.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bearn,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Toureille,</hi> (a Proſelyte)</cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivarez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Mazel,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Andrew Meunier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Boulonnois,</hi>
+                     </cell>
+                     <cell>Mr <hi>Elias Francis le Doux,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John James Meynadier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>David Douvier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chattelleraut</hi> in <hi>Poi<g ref="char:EOLhyphen"/>cton,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Elias Maurin,</hi>
+                     </cell>
+                     <cell>7</cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The Old</hi> REALE.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vaiſſat</hi> in <hi>Quercy,</hi>
+                     </cell>
+                     <cell>Mr <hi>Andrew Vallete,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chatilleraut,</hi>
+                     </cell>
+                     <cell>Mr <hi>Cardin Guillemot,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xaintonge,</hi>
+                     </cell>
+                     <cell>Mr <hi>Peter Perand,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Didier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>John Julien,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Anthony Mejanin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Mr <hi>John Garnier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Normandy,</hi>
+                     </cell>
+                     <cell>Mr <hi>Philip Allix,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xainctonge,</hi>
+                     </cell>
+                     <cell>Mr <hi>Paul Peletan,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter d' Algue,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Daniel Cros,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Anthony Aſtrict,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Stephen Bertrand,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivarez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Praloyer,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Raimond,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Lewis Capelier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dreux,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Piron,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Philip Ture,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>John Prunier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Geneva,</hi>
+                     </cell>
+                     <cell>Mr <hi>John Francis Malblanc,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Champagne,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Abraham Janoir,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1684</cell>
+                  </row>
+                  <pb n="20" facs="tcp:57345:21"/>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Anthony Bovene,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>County of <hi>Foiz,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Joachim Lautre,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>County of <hi>Foiz,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Stephen Barnavon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Champagne,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Clandius Odot,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Daude,</hi>
+                     </cell>
+                     <cell>26</cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>The</hi> GREAT REALE.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tremblade,</hi>
+                     </cell>
+                     <cell>Mr <hi>Elias Bonnin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xaintonge,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Biliaud,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rochell,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Peter,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Henry Beneteau,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bertrand Auvelle,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Maurin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Charles Melon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xaintonge,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Tourtelot,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Poictou,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Daniel Conte,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Quercy,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Iſaac Petit,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivarez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>David Reboul,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1688</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Croicy</hi> in <hi>Normandy,</hi>
+                     </cell>
+                     <cell>Mr <hi>Daniel Bourget,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1697</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Croicy</hi> in <hi>Normandy,</hi>
+                     </cell>
+                     <cell>Mr <hi>Salomon Bourget,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1697</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Croicy</hi> in <hi>Normandy</hi>
+                     </cell>
+                     <cell>Mr <hi>Benjamin Germain,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1697</cell>
+                  </row>
+                  <row>
+                     <cell>Dioceſs of <hi>Caſtres,</hi>
+                     </cell>
+                     <cell>Mr <hi>John Senegal,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1697</cell>
+                  </row>
+                  <row>
+                     <cell>Dioceſs of <hi>Caſtres,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Iſaac Bonnet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1697</cell>
+                  </row>
+                  <row>
+                     <cell>Dioceſs of <hi>Caſtres,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Stephen Cros,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1697</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vivarez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Claudins Laurent,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>This is a Foreigner,</cell>
+                     <cell>
+                        <hi>John James Shebert,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>David Saget,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1698</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Peter Bertrand,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1698</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Uzez,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Martinique,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1698</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>London,</hi>
+                     </cell>
+                     <cell>
+                        <hi>William March;</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1697</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc</hi>
+                     </cell>
+                     <cell>
+                        <hi>Anthony Pelaton,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1698</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Roumegeon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1698</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>David Tache,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1698</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Anthony Pontic,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1698</cell>
+                  </row>
+                  <pb n="21" facs="tcp:57345:22"/>
+                  <row>
+                     <cell>
+                        <hi>Pompidou,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Stephen Gout,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1698</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pompidou,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Laurence Fouquier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1698</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>David Leger,</hi>
+                     </cell>
+                     <cell>30</cell>
+                     <cell>1698</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Theſe two <hi>Reales</hi> are called <hi>Invalides</hi> or Hoſpitals. </p>
+            <p>
+               <table>
+                  <head>Upon the Gallies in the Ocean.</head>
+                  <row>
+                     <cell cols="4">
+                        <hi>On the</hi> AMBITIOUS <hi>or</hi> EMERALD <hi>at</hi> BORDEAUX.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Mr <hi>Marc Anthony Damouin,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nimes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Gachon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Peter Baſtide,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ponpidou,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Meynadier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mande,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Cezar Combet,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Comerc,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Stephen Pechen,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Quercy,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Iſaac Grimal,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Normandy,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Anthony Durand,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Provence,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Boetias,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Caſtres,</hi>
+                     </cell>
+                     <cell>
+                        <hi>David Loup,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1693</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Anthony Peyrier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xaintonge,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Daniel Rame,</hi>
+                     </cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="4">
+                        <hi>The</hi> PRINCESS <hi>or</hi> WARLIKE.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Peter Capelan,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Blanc,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Giraud,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>James Dupon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Dumas,</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">
+                        <hi>At</hi> BREST <hi>the</hi> AMAZONE <hi>or</hi> MAR<g ref="char:EOLhyphen"/>CHIONESS.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Neufchattel in Swit<g ref="char:EOLhyphen"/>zerland:</hi>
+                     </cell>
+                     <cell>Mr <hi>Joſeph Bois de la Tour,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1687</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Laurens,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Daude,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1692</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Beziers,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Bartholomew Reſſignol,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="22" facs="tcp:57345:23"/>
+                        <hi>Havre de Grace,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Abraham Lenu,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xaintonge,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Borrue,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Seimene,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tournay,</hi>
+                     </cell>
+                     <cell>
+                        <hi>James Dufour,</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">
+                        <hi>The</hi> SHINING <hi>or</hi> TRIUMPHANT.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>Mr <hi>Clement Patonnier,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Stephen Salles,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Peter Maiſtre,</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">
+                        <hi>St</hi> Malo. <hi>The</hi> FIRM <hi>or</hi> PALM.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Xaintonge,</hi>
+                     </cell>
+                     <cell>Mr. <hi>Francis Pindon,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1686</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ponpidou,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Revole,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Bancilion,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Peter Barracque,</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">
+                        <hi>The</hi> VICTORY <hi>or the</hi> FORTUNATE.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Mathew la Marte,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1690</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dauphine,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Anthony Breynard,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>ditto,</cell>
+                     <cell>
+                        <hi>Peter Blanc,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Languedoc,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Anthony Second,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1691</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Champagne,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Daniel Reige,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>1689</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sevennes,</hi>
+                     </cell>
+                     <cell>
+                        <hi>John Barte,</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>1691</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Theſe are the names of ſuch Slaves, which it has been poſſible to procure, for they are ſo variouſly ob<g ref="char:EOLhyphen"/>ſerved, that it is very difficult for them to write, and ſo there is a great number of 'em, whoſe Names or Country are unknown to us.</p>
+            <p>It may be obſerved in the foregoing Liſt, that there are ſome Foreigners amongſt them, and we muſt add, that there is a great number of 'em, who are <hi>Engliſh</hi> Denizens, or taken in his Majeſties ſervice.</p>
+            <p>Some, Doubtleſs, are dead ſince this Liſt, and 22 were lately ſet at Liberty by the ſollicitation of the Dutch Ambaſſador of <hi>Paris,</hi> but they have been ſuffi<g ref="char:EOLhyphen"/>ciently recruited, ſeeing 140 Men coming from <hi>Orange</hi> to pray to God, were ſent to the Gallies at once, beſides a great many more afterwards.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
